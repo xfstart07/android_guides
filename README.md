@@ -1,40 +1,42 @@
-# CodePath Android Cliffnotes
+# 初衷
 
-Welcome to the open-source [Codepath](http://codepath.com) Android Cliffnotes! Our goal is to become the **central crowdsourced resource** for complete and up-to-date Android content and tutorials. [Just take me to the notes](https://github.com/codepath/android_guides/wiki#getting-started)!
+根据 [codepath](https://codepath.com/) 给出的Android Guides 翻译的文档。
 
-[![CodePath](http://i.imgur.com/XgxWfyF.png)](http://codepath.com)
+# 开始
 
-We have guides for everyone whether you are **beginner, intermediate or advanced**. Want to learn how to [use the ActionBar](https://github.com/codepath/android_guides/wiki/Defining-The-ActionBar) or the [ins and outs of fragments](https://github.com/codepath/android_guides/wiki/Creating-and-Using-Fragments)? We got that. Want to learn [about testing](https://github.com/codepath/android_guides/wiki/Android-Unit-and-Integration-testing) or how to [build flexible user interfaces for multiple devices](https://github.com/codepath/android_guides/wiki/Flexible-User-Interfaces)? We got you covered. We don't waste time with the "theoretical approach" from a book. We cover **exactly the things we use every day** as we are developing apps for contracts.
+**刚学 Android ?** 从这里开始.
 
-**Need Help?** Please join the [google groups](https://groups.google.com/forum/#!forum/codepath-android-guides) for these guides where you can post related questions.
+* [刚开始学习 Android 资源](http://guides.codepath.com/android/Beginning-Android-Resources)
+* [配置 Android Studio](https://docs.google.com/presentation/d/1iD0sMc-qIG80yZ1AQfDU5nxSAl3Xe4nx-2W_g9yzMSM/edit#slide=id.g76d46de3_2_0) (Google文档) 或 [配置 IntelliJ IDEA](http://guides.codepath.com/android/Setting-up-IntelliJ-IDEA#configure-intellij-idea)
+* [安装一个快速的虚拟机](http://guides.codepath.com/android/Genymotion-2.0-Emulators-with-Google-Play-support) (Genymotion 教程)
+* [手机 Apps 结构](https://docs.google.com/presentation/d/1KQHSp7aJkR_P3zH02ipYajP40mbCsuWTDLoeNUfALeo/edit#slide=id.ge28d4a94_088) (概念介绍 PPT)
+* [手机页面原型](http://guides.codepath.com/android/Mobile-Screen-Archetypes) (常用手机应用页面种类)
+* [常见问题分析和解决方案](http://guides.codepath.com/android/Troubleshooting-Common-Issues) (运行出现问题?)
+* [使用 Android Studio 开发第一个应用](https://docs.google.com/presentation/d/15JnmfmFa0hJOEkBhG_TeymChLzDzpOTJvBlOj29A9fY/edit#slide=id.gf45d6347_3_0) (一步步开发 Todo 应用, PPT 介绍)
+* [Todo 应用教程](http://guides.codepath.com/android/Basic-Todo-App-Tutorial) (Todo 应用步骤指南)
+* [Android 应用例子](http://guides.codepath.com/android/Sample-Android-Apps) (项目列表)
+* [免费的 Android 课程](http://guides.codepath.com/android/Free-Android-Curriculum) (资源)
+* [Google Android 术语表](https://developers.google.com/android/for-all/vocab-words/) (定义常用术语)
+* [Android 学习资源](https://github.com/CodementorIO/Android-Learning-Resources)
 
-## Motivation
+**使用 Eclipse ?** 请看下面.
 
-Ever been **frustrated finding information on outdated one-off blog posts and tutorials** that has since become irrelevant? How many times were you googling only to find your answer only on a **2 year old StackOverflow post**? We believe there's got to be a better way. Why not have the community work together to create useful and detailed documentation for every aspect of Android (or any platform)? There's absolutely no reason that we should have to make do with outdated, vague or un-editable content anymore.
+* [配置 Eclipse ADT](http://goo.gl/Ml9YN) (详细的 PPT)
+* [使用 Eclipse ADT 开发第一个应用](http://goo.gl/pBKfYP) (一步步开发 Todo 应用)
+* [Eclipse 常见问题分析与解决方案](http://guides.codepath.com/android/Troubleshooting-Eclipse-Issues) (在 Eclipse 运行出现问题?)
 
-Read about our [mission to change the way engineers learn new technologies](https://github.com/codepath/android_guides/wiki/The-CodePath-Goal) and we would love for you to [get involved](https://github.com/codepath/android_guides/wiki/The-CodePath-Goal#how-do-i-help)! In addition, we are a fledgling startup so if you like this guide and what we are trying to do, please consider following us on twitter [@codepath](https://twitter.com/codepath)! 
+# 结构
 
-## Live in San Francisco?
+探索应用开发的基础
 
-Located in the San Francisco Bay Area and interested in learning with others in a more structured program? Check out our local [Android](http://www.meetup.com/Learning-Android-Development) or [iOS](http://www.meetup.com/Learning-iOS-Development-SF/) meetup events. We have free evening events and at-cost 1-day workshops to make learning social and connect you with others passionate about mobile.
+* [Android 目录结构](http://guides.codepath.com/android/Android-Directory-Structure#overview) (Android 程序的文件和文件夹介绍)
+* [组织你的代码文件](http://guides.codepath.com/android/Organizing-your-Source-Files) (清理你的应用)
+* [使用资源文件](http://guides.codepath.com/android/Using-String-Resources) (理解资源名)
+* [处理配置更改](http://guides.codepath.com/android/Handling-Configuration-Changes) (页面切换过程)
+* [迁移到 AppCompat 库](http://guides.codepath.com/android/Migrating-to-the-AppCompat-Library) (使用这个支持库)
 
-If you are an experienced engineer (2+ years of professional experience in software development) and serious about learning Android, check out our [free evening 8-week Android bootcamp](http://codepath.com/androidbootcamp). Learn how to build mobile apps while collaborating with other engineers and designers. Work on solving important problems for non-profits with our free 8-week accelerated evening mobile bootcamp. Compete for $10,000 worth of cash prizes. [Learn more and apply here](http://courses.codepath.com/snippets/intro_to_android/about_bootcamp).
+# 视图和布局
 
-## Contributors
+探索视图、布局、风格和常见 UI 模式的细节.
 
-These guides were originally created and adapted by [Nathan Esquenazi](http://github.com/nesquena) 
-as a part of our [CodePath](http://codepath.com) training and bootcamps. We have also had contributions from many
-community members including:
 
- * [Nidhi Shah](https://github.com/nidhi1608) (CodePath Alumni and Staff)
- * [Roger Hu](https://github.com/rogerhu) (CodePath Alumni and Instructor)
- * [Michael Alan Huff](https://github.com/koalahamlet) (CodePath Alumni and Mentor)
- * [Vibhor Bharadwaj](https://github.com/vibhorB) (CodePath Alumni and Mentor)
- * [Ari Lacenski](https://github.com/tensory) (CodePath Alumni)
- * [Chunyan Song](https://github.com/chunyan) (CodePath Alumni)
- * [Vishal Kapoor](https://github.com/kapoor) (CodePath Alumni)
- * [Trevor Elkins](https://github.com/trevor-e)
- * [Adrian Romero](https://github.com/romeroadrian)
- * [Aaron Fleshner](https://github.com/adfleshner)
-
-If you are interested in contributing, check out our [contribution guidelines](https://github.com/codepath/android_guides/wiki/Contributing-Guidelines) for this project.
