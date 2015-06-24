@@ -25,4 +25,18 @@
 * [使用 Eclipse ADT 开发第一个应用](http://goo.gl/pBKfYP) (一步步开发 Todo 应用)
 * [Eclipse 常见问题分析与解决方案](http://guides.codepath.com/android/Troubleshooting-Eclipse-Issues) (在 Eclipse 运行出现问题?)
 
+# 结构
+
+探索应用开发的基础
+
+* [Android 目录结构](http://guides.codepath.com/android/Android-Directory-Structure#overview) (Android 程序的文件和文件夹介绍)
+* [组织你的代码文件](http://guides.codepath.com/android/Organizing-your-Source-Files) (清理你的应用)
+* [使用资源文件](http://guides.codepath.com/android/Using-String-Resources) (理解资源名)
+* [处理配置更改](http://guides.codepath.com/android/Handling-Configuration-Changes) (页面切换过程)
+* [迁移到 AppCompat 库](http://guides.codepath.com/android/Migrating-to-the-AppCompat-Library) (使用这个支持库)
+
+# 视图和布局
+
+探索视图、布局、风格和常见 UI 模式的细节.
+
 
