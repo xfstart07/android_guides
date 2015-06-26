@@ -65,3 +65,40 @@
 * [分享元素在 Activity 过渡](http://guides.codepath.com/android/Shared-Element-Activity-Transition) (Android 5.0)
 * [圆形显示动画](http://guides.codepath.com/android/Circular-Reveal-Animation) (Android 5.0)
 * [设计支持库](http://guides.codepath.com/android/Design-Support-Library) (Material Desgin 库)
+
+## 适配器页面
+
+* [使用一个 ArrayAdapter 在 ListView](http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView) (自定义列表项)
+* [在适配器页面中无限滚动](http://guides.codepath.com/android/Endless-Scrolling-with-AdapterViews) (无限分页)
+* [实现 Pull to Refresh 指南](http://guides.codepath.com/android/Implementing-Pull-to-Refresh-Guide)
+* [实现横向 ListView 指南](http://guides.codepath.com/android/Implementing-a-Horizontal-ListView-Guide) (横向滚动)
+* [实现变种 ListView ](http://guides.codepath.com/android/Implementing-a-Heterogenous-ListView) (在不同类型项)
+* [使用 RecyclerView](http://guides.codepath.com/android/Using-the-RecyclerView) (Android 5.0)
+*[使用 CardView](http://guides.codepath.com/android/Using-the-CardView) (Android 5.0)
+
+## 自定义视图
+
+* [在视图中的基础绘画](http://guides.codepath.com/android/Basic-Painting-with-Views) (简单画板应用教程)
+* [定义自定义视图](http://guides.codepath.com/android/Defining-Custom-Views) (**需要注意**)
+* [扩展 SurfaceView](http://guides.codepath.com/android/Extending-SurfaceView) (**需要注意**)
+* [在 OpenGL 和 GLSurfaceView 中绘画](http://guides.codepath.com/android/Drawing-with-OpenGL-and-GLSurfaceView) (**需要注意**)
+* [建立一个自定义动画进度条](http://guides.codepath.com/android/Progress-Bar-Custom-View) (联系)
+
+# 交互
+
+探索如何在一个应用程序允许**用户交互**和**导航**:
+
+* [视图事件监听](http://guides.codepath.com/android/Basic-Event-Listeners) (点击、按键、更新事件)
+* [创建自定义监听](http://guides.codepath.com/android/Creating-Custom-Listeners) (定义，设置和触发事件)
+* [显示 Toasts](http://guides.codepath.com/android/Displaying-Toasts) (快速通知和包含自定义视图)
+* [显示 Snackbar](http://guides.codepath.com/android/Displaying-the-Snackbar) (在活动中快速通知 Android 5.0)
+* [探索 ActionBar](http://guides.codepath.com/android/Defining-The-ActionBar) (包含添加动作项)
+* [扩展 ActionBar 指南](http://guides.codepath.com/android/Extended-ActionBar-Guide) (分裂条，自定义 ActionBar, etc)
+* [手势和点击事件](http://guides.codepath.com/android/Gestures-and-Touch-Events) (侧滑、震动和拖拽事件)
+* [菜单和弹出](http://guides.codepath.com/android/Menus-and-Popups) (Context Menu, PopupMenu, PopupWindow)
+* [对话](http://guides.codepath.com/android/Using-DialogFragment) (显示一个透明内容)
+* [实现一个 Rate Me 功能](http://guides.codepath.com/android/Implementing-a-Rate-Me-Feature) (为了获得 Google Play 商店排名)
+* [重复周期任务](http://guides.codepath.com/android/Repeating-Periodic-Tasks) (Handler, ScheduledThreadPoolExecutor)
+* [浮动的操作按钮](http://guides.codepath.com/android/Floating-Action-Buttons) (Android 5.0, 提升操作)
+* [在 CoordinatorLayout 处理滚动](http://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout) (崩溃的工具栏)
+
