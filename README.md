@@ -102,3 +102,98 @@
 * [浮动的操作按钮](http://guides.codepath.com/android/Floating-Action-Buttons) (Android 5.0, 提升操作)
 * [在 CoordinatorLayout 处理滚动](http://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout) (崩溃的工具栏)
 
+# 导航
+
+* [导航 Activities 在 Intent](http://guides.codepath.com/android/Using-Intents-to-Create-Flows) (在 Activities 之间通信)
+* [通用导航范例](http://guides.codepath.com/android/Common-Navigation-Paradigms) (Tabs, Swipe-able Views, Pull-out Drawer)
+* [通用固定的 Intents](http://guides.codepath.com/android/Common-Implicit-Intents) (打开呼叫, 发送文本, 打开链接)
+* [导航和任务栈](http://guides.codepath.com/android/Navigation-and-Task-Stacks) (控制任务栈的行为)
+* [分享内容在 Intents](http://guides.codepath.com/android/Sharing-Content-with-Intents) (在 ShareActionProvider)
+* [使用 Parcelable]() (在 activities 之间快速传递数据)
+* [图书搜索教程](http://guides.codepath.com/android/Book-Search-Tutorial) (搜索视图工具条和分享内容)
+
+* 网络和数据模型
+
+深入网络层和模型层数据驱动的应用程序:
+
+* [发送和节约网络请求](http://guides.codepath.com/android/Sending-and-Managing-Network-Requests) (API调用，图片下载)
+* [转换 JSON 到模型]() (JSON 对象反序列化)
+* [创建并执行 Async 任务](http://guides.codepath.com/android/Creating-and-Executing-Async-Tasks) (长时间运行在后台的任务)
+* [处理进度条](http://guides.codepath.com/android/Handling-ProgressBars) (在长时间运行的任务)
+* [RottenTomatoes 网络接口教程](http://guides.codepath.com/android/RottenTomatoes-Networking-Tutorial)
+* [网络库 Volley](http://guides.codepath.com/android/Networking-with-the-Volley-Library)
+* [使用 Fresco 库显示图片](http://guides.codepath.com/android/Displaying-Images-with-the-Fresco-Library) (FaceBook)
+* [在 Parse 建立应用程序的数据驱动](http://guides.codepath.com/android/Building-Data-driven-Apps-with-Parse)
+* [在 Parse 建立简单的聊天客户端](http://guides.codepath.com/android/Building-Simple-Chat-Client-with-Parse)
+* [在 Parse 常见问题解决方案](http://guides.codepath.com/android/Troubleshooting-Common-Issues-with-Parse)
+* [在 Retrofit 处理 APIs](http://guides.codepath.com/android/Consuming-APIs-with-Retrofit)
+* [在 Sockets 发送和接收数据](http://guides.codepath.com/android/Sending-and-Receiving-Data-with-Sockets)
+
+
+# 持久化
+
+探索数据持久化方案:
+
+* [在这些方案中持久化数据](http://guides.codepath.com/android/Persisting-Data-to-the-Device) (Preferences, Files, SQLite, ORMs)
+* [ActiveAndroid ORM 教程](http://guides.codepath.com/android/ActiveAndroid-Guide) (Q&A)
+* [存储和访问 SharedPreference](http://guides.codepath.com/android/Storing-and-Accessing-SharedPreferences)
+* [在 SQLiteOpenHelper 的本地化数据](http://guides.codepath.com/android/Local-Databases-with-SQLiteOpenHelper)
+* [填充一个 ListView 在 CursorAdapter](http://guides.codepath.com/android/Populating-a-ListView-with-a-CursorAdapter)
+* [Sugar 一个简洁的持久化库](http://guides.codepath.com/android/Clean-Persistence-with-Sugar-ORM) (安装、查询、迁移)
+* [设置 PreferenceFragment](http://guides.codepath.com/android/Settings-with-PreferenceFragment)
+* [在 Content Providers 加载通信录](http://guides.codepath.com/android/Loading-Contacts-with-Content-Providers)
+* [在 Calendar 交互](http://guides.codepath.com/android/Interacting-with-the-Calendar)
+* [创建 Content Provides](http://guides.codepath.com/android/Creating-Content-Providers) (**需要注意**)
+* [简单的 SQL 在 Cupboard](http://guides.codepath.com/android/Easier-SQL-with-Cupboard)
+
+# 碎片(Fragments)
+
+理解如何使用 Fragments 建立一个健壮、灵活的视图:
+
+* [创建和使用 Fragments](http://guides.codepath.com/android/Creating-and-Using-Fragments)
+* [显示 DialogFragment](http://guides.codepath.com/android/Using-DialogFragment)
+* [使用 TabLayout 制作 Google Play 样式 Tabs](http://guides.codepath.com/android/Google-Play-Style-Tabs-using-TabLayout)
+* [使用 PagerSlidingTabStrip 制作侧滑 Tabs](http://guides.codepath.com/android/Sliding-Tabs-with-PagerSlidingTabStrip)
+* [在 FragmentPagerAdapter 使用 ViewPager](http://guides.codepath.com/android/ViewPager-with-FragmentPagerAdapter)
+* [抽屉导航 Fragment](http://guides.codepath.com/android/Fragment-Navigation-Drawer)
+* [简洁的用户界面](http://guides.codepath.com/android/Flexible-User-Interfaces) (使用 Fragment)
+
+# 传感器和设备 SDKs
+
+通过探索 Android SDK 使用传感器和可用组件:
+
+* [访问 相机 和 存储的媒体文件 ](http://guides.codepath.com/android/Accessing-the-Camera-and-Stored-Media) (相机、图片集)
+* [去监听 Sensors 和 Location](http://guides.codepath.com/android/Listening-to-Sensors-and-Location) (Light, Accelerometer, Location)
+* [Video 和 Audio 的播放和记录](http://guides.codepath.com/android/Video-and-Audio-Playback-and-Recording) (MediaPlayer, VideoView)
+* [Google Maps 设置教程](http://guides.codepath.com/android/Google-Maps-Fragment-Guide) (和[设置 Genymotion](http://guides.codepath.com/android/Google-Maps-Fragment-Guide#installing-genymotion))
+* [使用 Google Maps API v2](http://guides.codepath.com/android/Google-Maps-API-v2-Usage) (标记、信息窗口)
+
+# 服务
+
+挖掘如何使用后台服务和利用 Android 系统服务:
+
+* [开始一个后台服务](http://guides.codepath.com/android/Starting-Background-Services) (在 IntentService 和 Receivers)
+* [通知](http://guides.codepath.com/android/Notifications) (持续通知在指示板)
+* [Push 信息](http://guides.codepath.com/android/Push-Messaging) (分析 Push 和 Broadcast Receiver 概括)
+* [Google 云信息](http://guides.codepath.com/android/Google-Cloud-Messaging) (详细的 GCM 实现)
+* [实时信息](http://guides.codepath.com/android/Real-time-Messaging) (**需要注意**)
+
+* 工作流指南
+
+专注的问题像部署、测试、依赖管理，等等:
+
+* [开始 Gradle](http://guides.codepath.com/android/Getting-Started-with-Gradle)
+* [使用 Android Studio](http://guides.codepath.com/android/Using-Android-Studio)
+* [安装 Android SDK 工具](http://guides.codepath.com/android/Installing-Android-SDK-Tools)
+* [建立 Gradle 项目在 Jenkins CI](http://guides.codepath.com/android/Building-Gradle-Projects-with-Jenkins-CI)
+* [设置 Travis CI](http://guides.codepath.com/android/Setting-up-Travis-CI)
+* [Android Unit 和 集成测试](http://guides.codepath.com/android/Android-Unit-and-Integration-testing) (在 Roboelectric 和 Robotium)
+* [为单元测试安装 Roboelectric](http://guides.codepath.com/android/Robolectric-Installation-for-Unit-Testing)
+* [必须有的库]() (网络、持久化、兼容性、通用，等等)
+* [发布到 Google Play 商店](http://goo.gl/mUlGL1) (幻灯片)
+* [在 Android Studio 发布](http://guides.codepath.com/android/Publishing-to-the-Play-Store)
+* [外部流行工具](http://guides.codepath.com/android/Popular-External-Tools) (数据分析、崩溃包括)
+* [在 Git 中合作项目](http://guides.codepath.com/android/Collaborating-on-Projects-with-Git) (Git、团队)
+* [调试 和 Profiling 应用程序](http://guides.codepath.com/android/Debugging-and-Profiling-Apps) (**需要注意**)
+* [Dagger 2 依赖注入](http://guides.codepath.com/android/Dependency-Injection-with-Dagger-2) (**需要注意**)
+* [Android 最佳实践](https://github.com/futurice/android-best-practices)
