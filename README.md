@@ -178,7 +178,7 @@
 * [Google 云信息](http://guides.codepath.com/android/Google-Cloud-Messaging) (详细的 GCM 实现)
 * [实时信息](http://guides.codepath.com/android/Real-time-Messaging) (**需要注意**)
 
-* 工作流指南
+# 工作流指南
 
 专注的问题像部署、测试、依赖管理，等等:
 
