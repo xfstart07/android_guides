@@ -74,7 +74,7 @@
 * [实现横向 ListView 指南](http://guides.codepath.com/android/Implementing-a-Horizontal-ListView-Guide) (横向滚动)
 * [实现变种 ListView ](http://guides.codepath.com/android/Implementing-a-Heterogenous-ListView) (在不同类型项)
 * [使用 RecyclerView](http://guides.codepath.com/android/Using-the-RecyclerView) (Android 5.0)
-*[使用 CardView](http://guides.codepath.com/android/Using-the-CardView) (Android 5.0)
+* [使用 CardView](http://guides.codepath.com/android/Using-the-CardView) (Android 5.0)
 
 ## 自定义视图
 
@@ -112,7 +112,7 @@
 * [使用 Parcelable]() (在 activities 之间快速传递数据)
 * [图书搜索教程](http://guides.codepath.com/android/Book-Search-Tutorial) (搜索视图工具条和分享内容)
 
-* 网络和数据模型
+# 网络和数据模型
 
 深入网络层和模型层数据驱动的应用程序:
 
